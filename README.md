@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on exploring data related to clean energy, green buildings, and sustainability. ⚡️
+- 🌱 I’m currently improving coding in R and SQL. 
+- 💬 Ask me about resources for good documentation practices. 
+- 🎸 Fun fact: I write music. 
