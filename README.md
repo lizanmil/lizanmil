@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on exploring data related to clean energy, green buildings, and sustainability. ⚡️
+ 🌎 I am a life-long New Yorker with a love for cities. I am interested in policies and research
+ related to housing and urban development within the context of climate change.
+
+- 🔭 I’m currently exploring data related to housing development in sensitive areas, green infrastructure, and sustainability. ⚡️
 - 🌱 I’m currently improving coding in R and SQL. 
 - 💬 Ask me about resources for good documentation practices. 
 - 🎸 Fun fact: I write music. 
